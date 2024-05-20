@@ -1,0 +1,16 @@
+.hobby {
+    background-color: red;
+    height: 90%;
+    width: 30%;
+    flex: auto;
+}
+
+.hobby-title {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.
